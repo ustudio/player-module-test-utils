@@ -1,0 +1,18 @@
+{
+  "name": "player-module-test-utils",
+  "version": "0.1.0",
+  "description": "Utilities for writing unit tests against uStudio Player Modules.",
+  "main": "module_harness.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ustudio/player-module-test-utils.git"
+  },
+  "author": "uStudio Inc.",
+  "bugs": {
+    "url": "https://github.com/ustudio/player-module-test-utils/issues"
+  },
+  "homepage": "https://github.com/ustudio/player-module-test-utils#readme"
+}
