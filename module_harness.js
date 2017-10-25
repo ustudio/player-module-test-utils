@@ -64,7 +64,7 @@ class MockEvents {
   }
 }
 
-export {
+module.exports = {
   registeredModules,
   initializeModule,
   MockEvents
